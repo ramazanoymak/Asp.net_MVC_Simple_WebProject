@@ -1,0 +1,19 @@
+﻿
+.input-validation-error {
+    border : 1px solid red !important;
+    background-color : #ffeeee  !important;
+}
+
+
+
+.field-validation-error {
+    color:red;
+}
+.field-validation-error {
+    display:none;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color:red;
+}
